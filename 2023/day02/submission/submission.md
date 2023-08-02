@@ -3,6 +3,7 @@ this is my submission
 1) Check your present working directory.
 
 pwd
+src = "https://github.com/mgitwork027/90DaysOfDevOps/blob/master/image1.jpg"
 
 ![Project](https://github.com/mgitwork027/90DaysOfDevOps/blob/master/image1.jpg)
 
