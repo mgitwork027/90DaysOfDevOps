@@ -4,7 +4,7 @@ this is my submission
 
 pwd
 
-img src = "https://github.com/mgitwork027/90DaysOfDevOps/blob/master/image1.jpg"
+<img src = "https://github.com/mgitwork027/90DaysOfDevOps/blob/master/image1.jpg">
 
 ![Project](https://github.com/mgitwork027/90DaysOfDevOps/blob/master/image1.jpg)
 
